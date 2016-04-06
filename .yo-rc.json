@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Sauro Lab Modeling Software",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "0u812",
+    "githubRepository": "barcelona-2016-slides"
+  }
+}
